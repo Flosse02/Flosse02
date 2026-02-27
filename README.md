@@ -1,5 +1,7 @@
 # 💫 About Me:
-Im currently working on my SmartHome Dashboard<br>Im currently learning Pyhton, C, Javascript, HTML and more<br>Im a graduate Computer Scientist looking for expereince 
+I'm currently working on my SmartHome Dashboard.
+<br>I'm currently learning Pyhton, C, Javascript, HTML and more.
+<br>I'm a graduate Computer Scientist looking for expereince.
 
 
 ## 🌐 Socials:
